@@ -5,7 +5,7 @@
 
 Table of Contents:
 1. [Introduction](/siop/introduction)
-	1.1 Motivation
+	1.1. [Motivation](/siop/motivation) 
 	1.2 Purpose
 	1.3 Requirements
 	1.4 Terminology
