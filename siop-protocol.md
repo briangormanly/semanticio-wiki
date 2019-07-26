@@ -5,6 +5,13 @@
 
 Table of Contents:
 1. [Introduction](/siop/introduction)
-	1. oeuoeu
-	2. 
-2. oeueu
+	1.1 Motivation
+	1.2 Purpose
+	1.3 Requirements
+	1.4 Terminology
+	1.5 Operation 
+2. [Overview](/siop/overview)
+	1. ... 
+3. [Specification](/siop/specification)
+
+
